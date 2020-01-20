@@ -27,7 +27,7 @@ public class Array {
         int[][] multinums = {{1, 2, 3}, {4, 5, 6}};
 //        multinums[0][1] specify two indexes: one for the array, and one for the element inside that array.
         try {
-            System.out.println(multinums[0][1]);
+            System.out.println(multinums[0][1]);//: o/p : 2(2nd index of first array)
         } catch (Exception e) {
             System.out.println(e);
         }

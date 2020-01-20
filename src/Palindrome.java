@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//if the reverse of a given no is equal to itseslf then it is called a palindrome no.
 public class Palindrome {
     public static void main(String[] args) {
         int n,r,s=0;

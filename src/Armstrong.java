@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//if a given no is equal to the sum of cubes of its digit then it is called Armstrong number.
 public class Armstrong {
 
     private int sum =0;
